@@ -8,7 +8,10 @@ Users then begin to write reviews, which in turn spurs user adoption and more re
 The algorithm determines the rating of a review from 1-5 based on the review given as an input.
 
 Programming Language: Python
+
 Tools: Jupyter Notebook
+
 Modules: Numpy, pandas, scikit-learn, seaborn, matplotlib
+
 Algorithm: naïve-bayes
 
